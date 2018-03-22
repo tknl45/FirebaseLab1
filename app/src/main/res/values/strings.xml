@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseLab1</string>
+    <!-- FABEBOOK-->
+    <string name="facebook_application_id" translatable="false">2004475962915919</string>
+    <string name="facebook_login_protocol_schema" translatable="false">fb2004475962915919</string>
+
+    <!-- TWITTER-->
+    <string name="twitter_consumer_key" translatable="false">cBz7LUB3pGGRrcNcLEdfgC8NP</string>
+    <string name="twitter_consumer_secret" translatable="false">ewUEjM82tGD50RgZ4nmgCara7oc1bE7kYOw9SmElOUN7RlNmEr</string>
+</resources>
